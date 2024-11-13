@@ -25,7 +25,7 @@ const sidebars = {
     'hello',
     {
       type: 'category',
-      label: 'Tutorial',
+      label: 'Findings and Conclusion',
       items: ['tutorial-basics/create-a-document'],
     },
   ],

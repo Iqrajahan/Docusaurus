@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\docs\\Classification-models",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\HomepageFeatures",
+    "\\src\\css",
+    "\\static"
   ],
+  "SelectedNode": "\\docusaurus.config.js",
   "PreviewInSolutionExplorer": false
 }

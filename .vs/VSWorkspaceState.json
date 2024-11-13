@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\my-website",
+    "\\my-website\\docs",
+    "\\my-website\\docs\\Classification-models",
+    "\\my-website\\src",
+    "\\my-website\\src\\components",
+    "\\my-website\\src\\components\\HomepageFeatures",
+    "\\my-website\\src\\css",
+    "\\my-website\\src\\pages",
+    "\\my-website\\static"
+  ],
+  "SelectedNode": "\\my-website\\package-lock.json",
+  "PreviewInSolutionExplorer": false
+}
